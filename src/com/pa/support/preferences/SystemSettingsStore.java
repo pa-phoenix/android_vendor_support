@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ssos.support.preferences;
+package com.pa.support.preferences;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
